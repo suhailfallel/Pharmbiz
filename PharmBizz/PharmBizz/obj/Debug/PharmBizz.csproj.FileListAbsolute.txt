@@ -1,0 +1,176 @@
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\PharmBizz.dll.config
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\PharmBizz.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\PharmBizz.pdb
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\csc.exe
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\csc.exe.config
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\csc.rsp
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\csi.exe
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\csi.exe.config
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\csi.rsp
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.Managed.Core.targets
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.AppContext.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Collections.Immutable.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Console.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Globalization.Calendars.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.IO.Compression.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.IO.FileSystem.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Net.Http.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Net.Sockets.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Reflection.Metadata.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.ValueTuple.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Xml.XmlDocument.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Xml.XPath.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\vbc.exe
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\vbc.exe.config
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\vbc.rsp
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\VBCSCompiler.exe
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\roslyn\VBCSCompiler.exe.config
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\Antlr3.Runtime.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\Microsoft.Web.Infrastructure.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\Newtonsoft.Json.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Web.Helpers.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Web.Mvc.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Web.Optimization.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Web.Razor.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Web.WebPages.Deployment.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Web.WebPages.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Web.WebPages.Razor.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\WebGrease.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Web.Helpers.xml
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Web.Mvc.xml
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Web.Optimization.xml
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Web.Razor.xml
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Web.WebPages.xml
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Web.WebPages.Deployment.xml
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Web.WebPages.Razor.xml
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\Newtonsoft.Json.xml
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\Antlr3.Runtime.pdb
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\.net\Main Project\PharmBizz\PharmBizz\obj\Debug\PharmBizz.csproj.AssemblyReference.cache
+C:\.net\Main Project\PharmBizz\PharmBizz\obj\Debug\PharmBizz.csproj.CoreCompileInputs.cache
+C:\.net\Main Project\PharmBizz\PharmBizz\obj\Debug\PharmBizz.csproj.CopyComplete
+C:\.net\Main Project\PharmBizz\PharmBizz\obj\Debug\PharmBizz.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\obj\Debug\PharmBizz.pdb
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\DAL.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\EntityFramework.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\DAL.pdb
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\DAL.dll.config
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\EntityFramework.xml
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Data.SqlClient.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\System.Data.SqlClient.xml
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\EntityFramework.SqlServer.dll
+C:\.net\Main Project\PharmBizz\PharmBizz\bin\EntityFramework.SqlServer.xml
+D:\.net\main-project\PharmBizz\PharmBizz\bin\PharmBizz.dll.config
+D:\.net\main-project\PharmBizz\PharmBizz\bin\PharmBizz.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\PharmBizz.pdb
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\csc.exe
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\csc.exe.config
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\csc.rsp
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\csi.exe
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\csi.exe.config
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\csi.rsp
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.AppContext.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Collections.Immutable.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Console.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Globalization.Calendars.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.IO.Compression.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.IO.FileSystem.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Net.Http.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Net.Sockets.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Reflection.Metadata.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.ValueTuple.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Xml.XPath.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\vbc.exe
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\vbc.exe.config
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\vbc.rsp
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\VBCSCompiler.exe
+D:\.net\main-project\PharmBizz\PharmBizz\bin\roslyn\VBCSCompiler.exe.config
+D:\.net\main-project\PharmBizz\PharmBizz\bin\Antlr3.Runtime.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\DAL.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\EntityFramework.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\EntityFramework.SqlServer.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\Microsoft.Web.Infrastructure.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\Newtonsoft.Json.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Data.SqlClient.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Web.Helpers.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Web.Mvc.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Web.Optimization.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Web.Razor.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Web.WebPages.Deployment.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Web.WebPages.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Web.WebPages.Razor.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\WebGrease.dll
+D:\.net\main-project\PharmBizz\PharmBizz\bin\DAL.pdb
+D:\.net\main-project\PharmBizz\PharmBizz\bin\DAL.dll.config
+D:\.net\main-project\PharmBizz\PharmBizz\bin\EntityFramework.xml
+D:\.net\main-project\PharmBizz\PharmBizz\bin\EntityFramework.SqlServer.xml
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Data.SqlClient.xml
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Web.Helpers.xml
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Web.Mvc.xml
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Web.Optimization.xml
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Web.Razor.xml
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Web.WebPages.xml
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Web.WebPages.Deployment.xml
+D:\.net\main-project\PharmBizz\PharmBizz\bin\System.Web.WebPages.Razor.xml
+D:\.net\main-project\PharmBizz\PharmBizz\bin\Newtonsoft.Json.xml
+D:\.net\main-project\PharmBizz\PharmBizz\bin\Antlr3.Runtime.pdb
+D:\.net\main-project\PharmBizz\PharmBizz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.net\main-project\PharmBizz\PharmBizz\obj\Debug\PharmBizz.csproj.AssemblyReference.cache
+D:\.net\main-project\PharmBizz\PharmBizz\obj\Debug\PharmBizz.csproj.CoreCompileInputs.cache
+D:\.net\main-project\PharmBizz\PharmBizz\obj\Debug\PharmBizz.csproj.CopyComplete
+D:\.net\main-project\PharmBizz\PharmBizz\obj\Debug\PharmBizz.dll
+D:\.net\main-project\PharmBizz\PharmBizz\obj\Debug\PharmBizz.pdb

@@ -1,0 +1,101 @@
+﻿@model PharmBizz.Models.ENT_CompanyRegistration
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutCompany.cshtml";
+}
+
+<center>
+<h2>Profile</h2><hr />
+
+<div>
+    @*<h4>ENT_CompanyRegistration</h4>*@
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Company_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Company_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Company_RegNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Company_RegNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Company_Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Company_Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Company_District)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Company_District)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Company_State)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Company_State)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Company_Contact)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Company_Contact)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Company_Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Company_Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+
+        @*<dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>*@
+
+    </dl>
+</div>
+<p>
+   | @Html.ActionLink("Edit Profile", "CompanyUpdation", new { id = Model.Id }) |
+    @*@Html.ActionLink("Back to List", "Index")*@
+</p>
+ </center>   

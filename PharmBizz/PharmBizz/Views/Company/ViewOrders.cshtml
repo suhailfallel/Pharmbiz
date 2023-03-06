@@ -1,0 +1,112 @@
+﻿@model IEnumerable<DAL.Model.OutletOrder>
+
+@{
+    ViewBag.Title = "ViewOrders";
+    Layout = "~/Views/Shared/_LayoutCompany.cshtml";
+}
+
+<h2>View Orders</h2><hr />
+
+@*<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Outlet_Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Outlet_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Outlet_Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Medicine_Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Medicine_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Medicine_Dosage)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Batch_No)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.Mfg_Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Exp_Date)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.Company_Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Company_Name)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Order_Status)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Outlet_Id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Outlet_Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Outlet_Address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Medicine_Id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Medicine_Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Medicine_Dosage)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Batch_No)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.Mfg_Date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Exp_Date)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.Quantity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.Company_Id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Company_Name)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.Order_Status)
+        </td>
+        <td>
+            @Html.ActionLink("Dispatched", "Dispatched", new { id=item.Id }) |
+            @Html.ActionLink("Delivered", "Delivered", new { id=item.Id }) 
+            @*@Html.ActionLink("Cancel", "Cancel", new { id=item.Id })*@
+        </td>
+    </tr>
+}
+
+</table>

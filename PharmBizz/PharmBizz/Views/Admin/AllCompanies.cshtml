@@ -1,0 +1,88 @@
+﻿@model IEnumerable<DAL.Model.Company>
+
+@{
+    ViewBag.Title = "AllCompanies";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>All Companies</h2><hr />
+
+@*<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Company_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Company_RegNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Company_Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Company_District)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Company_State)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Company_Contact)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Company_Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Username)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Company_Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Company_RegNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Company_Address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Company_District)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Company_State)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Company_Contact)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Company_Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Username)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Password)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        <td>
+            @Html.ActionLink("Accept", "AcceptCompany", new { id=item.Id }) |
+            @Html.ActionLink("Reject", "RejectCompanies", new { id=item.Id }) |
+            @*@Html.ActionLink("Delete", "Delete", new { id=item.Id })*@
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,28 @@
+C:\.net\Main Project\PharmBizz\DAL\bin\Debug\DAL.dll.config
+C:\.net\Main Project\PharmBizz\DAL\bin\Debug\DAL.dll
+C:\.net\Main Project\PharmBizz\DAL\bin\Debug\DAL.pdb
+C:\.net\Main Project\PharmBizz\DAL\bin\Debug\EntityFramework.dll
+C:\.net\Main Project\PharmBizz\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\.net\Main Project\PharmBizz\DAL\bin\Debug\EntityFramework.xml
+C:\.net\Main Project\PharmBizz\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\.net\Main Project\PharmBizz\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\.net\Main Project\PharmBizz\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\.net\Main Project\PharmBizz\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\.net\Main Project\PharmBizz\DAL\obj\Debug\DAL.dll
+C:\.net\Main Project\PharmBizz\DAL\obj\Debug\DAL.pdb
+C:\.net\Main Project\PharmBizz\DAL\bin\Debug\System.Data.SqlClient.dll
+C:\.net\Main Project\PharmBizz\DAL\bin\Debug\System.Data.SqlClient.xml
+D:\.net\main-project\PharmBizz\DAL\bin\Debug\DAL.dll.config
+D:\.net\main-project\PharmBizz\DAL\bin\Debug\DAL.dll
+D:\.net\main-project\PharmBizz\DAL\bin\Debug\DAL.pdb
+D:\.net\main-project\PharmBizz\DAL\bin\Debug\EntityFramework.dll
+D:\.net\main-project\PharmBizz\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\.net\main-project\PharmBizz\DAL\bin\Debug\System.Data.SqlClient.dll
+D:\.net\main-project\PharmBizz\DAL\bin\Debug\EntityFramework.xml
+D:\.net\main-project\PharmBizz\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\.net\main-project\PharmBizz\DAL\bin\Debug\System.Data.SqlClient.xml
+D:\.net\main-project\PharmBizz\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\.net\main-project\PharmBizz\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\.net\main-project\PharmBizz\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\.net\main-project\PharmBizz\DAL\obj\Debug\DAL.dll
+D:\.net\main-project\PharmBizz\DAL\obj\Debug\DAL.pdb

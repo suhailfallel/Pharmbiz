@@ -1,0 +1,108 @@
+﻿@model DAL.Model.Company
+
+@{
+    ViewBag.Title = "RejectCompanies";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<center>
+    <h2>Reject Companies</h2>
+
+    <h3>Are you sure you want to reject this Company?</h3>
+    <div>
+        @*<h4>Company</h4>*@
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Company_Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Company_Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Company_RegNo)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Company_RegNo)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Company_Address)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Company_Address)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Company_District)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Company_District)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Company_State)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Company_State)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Company_Contact)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Company_Contact)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Company_Email)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Company_Email)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Username)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Username)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Password)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Password)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Status)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Status)
+            </dd>
+
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Delete" class="btn btn-default" /> |
+                @Html.ActionLink("Back to List", "AllCompanies")
+            </div>
+        }
+    </div>
+</center>

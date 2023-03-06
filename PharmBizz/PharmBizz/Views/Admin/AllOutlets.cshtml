@@ -1,0 +1,100 @@
+﻿@model IEnumerable<DAL.Model.MedicalOutlet>
+
+@{
+    ViewBag.Title = "AllOutlets";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>AllOutlets</h2>
+
+@*<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Outlet_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Outlet_LicensiName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Outlet_LicenseNum)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Outlet_Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Outlet_Place)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Outlet_District)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Outlet_State)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Outlet_Contact)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Outlet_Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Username)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Outlet_Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Outlet_LicensiName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Outlet_LicenseNum)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Outlet_Address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Outlet_Place)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Outlet_District)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Outlet_State)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Outlet_Contact)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Outlet_Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Username)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Password)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        <td>
+            | @Html.ActionLink("Accept", "Accept", new { id=item.Id }) |
+            @Html.ActionLink("Reject", "Reject", new { id=item.Id }) |
+            @*@Html.ActionLink("Delete", "Delete", new { id=item.Id })*@
+        </td>
+    </tr>
+}
+
+</table>

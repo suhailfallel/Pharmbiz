@@ -1,0 +1,123 @@
+﻿@model DAL.Model.MedicalOutlet
+
+@{
+    ViewBag.Title = "Accept";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<center>
+    <h2>Accept</h2>
+
+    <h3>Are you sure you want to accept this?</h3>
+    <div>
+        @*<h4>MedicalOutlet</h4>*@
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Outlet_Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Outlet_Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Outlet_LicensiName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Outlet_LicensiName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Outlet_LicenseNum)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Outlet_LicenseNum)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Outlet_Address)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Outlet_Address)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Outlet_Place)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Outlet_Place)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Outlet_District)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Outlet_District)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Outlet_State)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Outlet_State)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Outlet_Contact)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Outlet_Contact)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Outlet_Email)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Outlet_Email)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Username)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Username)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Password)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Password)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Status)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Status)
+            </dd>
+
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Accept" class="btn btn-default" /> |
+                @Html.ActionLink("Back to List", "AllOutlets")
+            </div>
+        }
+    </div>
+</center>
